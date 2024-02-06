@@ -31,7 +31,7 @@ Voornamelijk uitleg gekregen over Git en Github, hoe deze programma’s werken e
 - [x]  Github account aanmaken
 - [x]  Van start gaan met Git
 - [x]  Repository aanmaken
-- [ ]  Wiki aanmaken (kan via Github)
-- [ ]  Markdown erin zetten
-- [ ]  Readme erin zetten
-- [ ]  License kiezen en erin zetten
+- [x]  Wiki aanmaken (kan via Github)
+- [x]  Markdown uitproberen
+- [x]  Readme erin zetten
+- [x]  License kiezen en erin zetten
